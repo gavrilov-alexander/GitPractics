@@ -1,4 +1,3 @@
 DEF
-SDJND
-DEF
 ABC
+Hello World!
